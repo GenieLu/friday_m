@@ -156,13 +156,13 @@ h4{
 
 html,
 body {
-  /*height: 100%;*/
   margin: 0;
   width: 100%;
   max-width: 100%;
   font-family: 'PingFangTC-Light', '微軟正黑體', 'Microsoft JhengHei', 'Open Sans', sans-serif;
   overflow-x: hidden;
   overflow-y: auto;
+  background-color: #010303;
 }
 
 body {
