@@ -132,7 +132,38 @@ table {
 
 /****** Main ********/
 
+h1 {
+  font-size: 13em;
+}
 
+
+p {
+  font-size: 1em;
+  
+}
+
+h4{
+  line-height: 1.5;
+}
+
+*{
+  box-sizing: border-box;
+  color: #fff;
+  line-height: 1.3;
+  font-size: 18px;
+  font-weight: normal;
+}
+/*
+html,
+body {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  max-width: 100%;
+  font-family: 'PingFangTC-Light', '微軟正黑體', 'Microsoft JhengHei', 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
+}*/
 
 body {
     position: relative;
