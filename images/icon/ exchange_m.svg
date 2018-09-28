@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="163px" viewBox="0 0 159 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title> exchange_m</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-39.5%" y="-39.5%" width="178.9%" height="178.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index-rwd03" transform="translate(-100.000000, -118.000000)">
+            <g id="-exchange_m" transform="translate(56.000000, 106.000000)">
+                <g id="-exchange">
+                    <g id="Group-11">
+                        <g id="Group-24" transform="translate(45.000000, 29.000000)" stroke="#FFFFFF" stroke-width="2">
+                            <rect id="Rectangle-4-Copy-3" x="0" y="0" width="95" height="88"></rect>
+                            <g id="Group-22">
+                                <rect id="Rectangle-4-Copy-3" x="0" y="0" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-4" x="0" y="22" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-5" x="0" y="44" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-6" x="0" y="66" width="20" height="22"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(75.000000, 0.000000)">
+                                <rect id="Rectangle-4-Copy-3" x="0" y="0" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-4" x="0" y="22" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-5" x="0" y="44" width="20" height="22"></rect>
+                                <rect id="Rectangle-4-Copy-6" x="0" y="66" width="20" height="22"></rect>
+                            </g>
+                        </g>
+                        <g id="icon/Popcorn" transform="translate(151.000000, 12.000000)" fill="#4A4A4A" fill-rule="nonzero">
+                            <path d="M52,33 L52,36 L0,36 L0,33 C0,29.068 3.264,25.76 7.48,26.027 C7.796,26.047 8.047,25.796 8.027,25.48 C7.758,21.251 11.081,18 15,18 C16.461,18 17.824,18.454 18.95,19.223 C19.196,19.391 19.548,19.298 19.674,19.028 C20.788,16.647 23.196,15 26,15 C28.804,15 31.212,16.647 32.326,19.028 C32.452,19.298 32.804,19.391 33.05,19.223 C34.176,18.454 35.539,18 37,18 C40.926,18 44.242,21.259 43.973,25.482 C43.953,25.797 44.203,26.047 44.518,26.027 C48.748,25.758 52,29.08 52,33 Z" id="Shape"></path>
+                            <path d="M41.5029404,40 L51.4973716,40 C51.7991358,40 52.0325001,40.26724 51.9962884,40.5712 L46.0817096,90.5512 C46.0515332,90.80722 45.8372806,91 45.5827927,91 L41.5029404,91 C41.2253173,91 41,90.77152 41,90.49 L41,40.51 C41,40.22848 41.2253173,40 41.5029404,40 Z" id="Shape"></path>
+                            <path d="M21,90.49 L21,40.51 C21,40.22848 21.224,40 21.5,40 L30.5,40 C30.776,40 31,40.22848 31,40.51 L31,90.49 C31,90.77152 30.776,91 30.5,91 L21.5,91 C21.224,91 21,90.77152 21,90.49 Z" id="Shape"></path>
+                            <path d="M11,40.51 L11,90.49 C11,90.77152 10.7746824,91 10.497059,91 L6.41720173,91 C6.16271359,91 5.94846073,90.80722 5.91828427,90.5512 L0.00369825731,40.5712 C-0.0325134938,40.26724 0.201857006,40 0.502615717,40 L10.497059,40 C10.7746824,40 11,40.22848 11,40.51 Z" id="Shape"></path>
+                            <path d="M30,4 C30,6.209 28.209,8 26,8 C23.791,8 22,6.209 22,4 C22,1.791 23.791,0 26,0 C28.209,0 30,1.791 30,4 Z" id="Shape"></path>
+                            <path d="M9,11 C9,13.209 7.209,15 5,15 C2.791,15 1,13.209 1,11 C1,8.791 2.791,7 5,7 C7.209,7 9,8.791 9,11 Z" id="Shape"></path>
+                            <path d="M46,7 C48.209,7 50,8.791 50,11 C50,13.209 48.209,15 46,15 C43.791,15 42,13.209 42,11 C42,8.791 43.791,7 46,7 Z" id="Shape"></path>
+                        </g>
+                        <g id="Group-23" transform="translate(97.000000, 81.000000)">
+                            <rect id="Rectangle-13" stroke="#FFFFFF" stroke-width="2" fill="#000000" x="1" y="1" width="78" height="53" rx="4"></rect>
+                            <path d="M50.1184684,29.072631 L35.7063824,37.7456474 C34.853465,38.2589226 33.7534688,37.970859 33.2494722,37.1022395 C33.0861538,36.8207662 33,36.4998147 33,36.1728725 L33,18.8268398 C33,17.817904 33.8031187,17 34.7938157,17 C35.1148478,17 35.4299973,17.0877398 35.7063824,17.254065 L50.1184684,25.9270813 C50.9713858,26.4403565 51.254242,27.5606035 50.7502453,28.4292231 C50.5963093,28.6945262 50.3789756,28.915861 50.1184684,29.072631 Z" id="Triangle" fill="#FFFFFF"></path>
+                        </g>
+                        <g id="icon/紅利-copy" filter="url(#filter-1)" transform="translate(74.000000, 127.000000)">
+                            <path d="M19,38 C8.50645833,38 0,29.4935417 0,19 C0,8.50645833 8.50645833,0 19,0 C29.4935417,0 38,8.50645833 38,19 C38,29.4935417 29.4935417,38 19,38 Z" id="Fill-1" fill="#F5A623"></path>
+                            <path d="M22.23,26.62 L15.21,26.62 C13.41,26.62 12.95,26.64 12.21,26.7 C12.29,25.72 12.39,25.12 12.63,24.34 C13.15,22.68 14.11,21.16 15.51,19.86 C16.27,19.16 17.03,18.58 19.07,17.2 C20.79,16.04 21.21,15.52 21.21,14.6 C21.21,13.64 20.35,13 19.07,13 C18.11,13 17.43,13.32 16.99,14 C16.71,14.44 16.59,14.84 16.49,15.68 L12.29,15.24 C12.59,13.5 12.95,12.62 13.75,11.68 C14.89,10.34 16.71,9.62 19.05,9.62 C21.75,9.62 23.81,10.52 24.81,12.14 C25.25,12.84 25.47,13.62 25.47,14.48 C25.47,15.94 24.87,17.18 23.63,18.2 C22.97,18.78 22.77,18.92 20.73,20.34 C18.99,21.54 18.25,22.24 17.79,23.12 L22.45,23.12 C23.95,23.12 24.87,23.08 25.65,22.98 L25.65,26.76 C24.49,26.66 23.65,26.62 22.23,26.62 Z" id="2" fill="#FFFFFF"></path>
+                        </g>
+                        <rect id="Rectangle-4-Copy" x="0" y="0" width="248" height="184"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
