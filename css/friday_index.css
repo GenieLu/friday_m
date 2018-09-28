@@ -1,4 +1,104 @@
 
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/****** Main ********/
+
+h1 {
+  font-size: 13em;
+}
+
+
+p {
+  font-size: 1em;
+  
+}
+
+h4{
+  line-height: 1.5;
+}
+
+*{
+  box-sizing: border-box;
+  color: #fff;
+  line-height: 1.3;
+  font-size: 18px;
+  font-weight: normal;
+
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  max-width: 100%;
+  font-family: 'PingFangTC-Light', '微軟正黑體', 'Microsoft JhengHei', 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body {
+    position: relative;
+    overflow-x: hidden;
+    color: white;
+    font-size: 16px;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+img{
+  vertical-align: middle;
+  border: 0;
+}
+
 .vertical-center {
   text-align: center;
   width: 100%;
