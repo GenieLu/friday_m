@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape-check Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index01" transform="translate(-273.000000, -2720.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="自動續租型" transform="translate(233.000000, 2580.000000)">
+                <g id="Shape-check" transform="translate(40.000000, 140.000000)">
+                    <path d="M13.7949734,0.199426269 C13.5216183,-0.0664754229 13.0784313,-0.0664754229 12.8050215,0.199426269 L4.41859422,8.35644869 L1.19498878,5.22105338 C0.921633641,4.95515169 0.478446682,4.95517829 0.205036859,5.22105338 C-0.0683456197,5.48692848 -0.0683456197,5.91798815 0.205036859,6.18388985 L3.92361826,9.80066348 C4.19689136,10.0665386 4.64040644,10.0663524 4.91357017,9.80066348 L13.7949734,1.16228933 C14.0683559,0.89641423 14.0683285,0.46532796 13.7949734,0.199426269 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
