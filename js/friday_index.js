@@ -68,5 +68,14 @@ $(function () {
     }
 
     //hide button
+    $(window).scroll(function () {
+        var scrollval = $(window).scrollTop();
+        if (scrollval >= 1000){
+            $('.booking-btn').hide();            
+        }
+        else {
+            $('.booking-btn').show(); 
+        }
+    });
 
 });
