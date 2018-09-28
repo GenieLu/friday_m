@@ -112,7 +112,10 @@ ul {
   list-style: none;
 }
 
-
+blockquote,
+q {
+  quotes: none;
+}
 
 blockquote:before,
 blockquote:after,
@@ -168,9 +171,9 @@ body {
     overflow-x: hidden;
     color: white;
     font-size: 16px;
-    -webkit-align-items: center;
+/*    -webkit-align-items: center;
     -ms-flex-align: center;
-    align-items: center;
+    align-items: center;*/
     width: 100%;
     max-width: 100%;
 }
